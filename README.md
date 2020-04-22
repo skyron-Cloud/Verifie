@@ -7,7 +7,5 @@
     <p align="center">
 
     <p>Verifie!! The start of a new revolutionary era with a state of the art verification system.
-</p>
-
-    </p>
+</p> 
 </div>
